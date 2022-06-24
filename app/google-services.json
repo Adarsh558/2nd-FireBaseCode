@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "871966065140",
+    "project_id": "remoteconfig-fireebase",
+    "storage_bucket": "remoteconfig-fireebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871966065140:android:58ba6dc6f8bd0ba37e79a1",
+        "android_client_info": {
+          "package_name": "com.example.remoteconfigfireebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871966065140-474r3l23c3fq9p5ug9kp8glargvr2b2c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH3_DbPdMGko_NHiHdC54le7RDGT3Xu_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871966065140-474r3l23c3fq9p5ug9kp8glargvr2b2c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
